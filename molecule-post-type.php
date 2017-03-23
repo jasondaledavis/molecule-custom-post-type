@@ -1,10 +1,11 @@
 <?php
 /*
 Plugin Name: Molecule Post Type
-Plugin URI: https://nerdbrand.me
-Description: I'm a mad genuis.
+Plugin URI: https://molecule.element502.com
+GitHub Plugin URI: https://github.com/jasondaledavis/molecule-post-type
+Description: Creates Projects, Landers and Thank You Post types for inbound marketing and portfolio management.
 Author: Jason Davis
-Version: 1.0
+Version: 0.1
  */
 
 // Exit if accessed directly

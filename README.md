@@ -4,5 +4,5 @@ Creates Projects, Landers and Thank You Post types for inbound marketing and por
 
 == Changelog ==
 
-= 1.0 =
-* First Release! March 23th, 2017
+= 0.1 =
+* First Beta Release! March 23th, 2017
