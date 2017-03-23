@@ -1,0 +1,5 @@
+.single-lander .header-global,
+.single-lander .author-info,
+.single-lander .entry-footer {
+   display:none !important;
+}
