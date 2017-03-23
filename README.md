@@ -1,8 +1,8 @@
-# 502 Analytics
+# Molecule Post Type Plugin
 
-Adds Google Analytics tracking code to your theme. Paste the UA-xxxxx-1 code into the textbox and click save. The plugin outputs the script in the &lt;head&gt; tag.
+Creates Projects, Landers and Thank You Post types for inbound marketing and portfolio management.
 
 == Changelog ==
 
 = 1.0 =
-* First Release! December 20th, 2016
+* First Release! March 23th, 2017
