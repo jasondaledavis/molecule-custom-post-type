@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: Molecule Post Type
-Plugin URI: https://molecule.element502.com
+Plugin URI: https://github.com/jasondaledavis/molecule-post-type
 GitHub Plugin URI: https://github.com/jasondaledavis/molecule-post-type
 Description: Creates Projects, Landers and Thank You Post types for inbound marketing and portfolio management.
 Author: Jason Davis
